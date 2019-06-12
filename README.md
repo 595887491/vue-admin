@@ -3,5 +3,5 @@
 ### 运用技术
 
 ```
-  CFSDS
+  vue-cli3.0+vuex+axios+sass
 ```
