@@ -1,29 +1,7 @@
 # vue_admin
 
-## Project setup
-```
-yarn install
-```
+### 运用技术
 
-### Compiles and hot-reloads for development
 ```
-yarn run serve
+  CFSDS
 ```
-
-### Compiles and minifies for production
-```
-yarn run build
-```
-
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
